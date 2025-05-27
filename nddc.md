@@ -1,0 +1,83 @@
+## Introduction (Tell me about you)
+
+My name is Adora Obiosio Onyile. I am from Calabar, Cross River State, and I hold a Bachelor’s degree in Software Engineering. My academic and professional journey has been rooted in using technology to address real challenges in my community, particularly in education and digital access. I am committed to developing secure digital systems that empower people, strengthen institutions, and support sustainable development in the Niger Delta.
+
+---
+
+## What are your long-term goals?
+
+- Establish a cybersecurity and digital skills center in the Niger Delta to train local professionals and support organizations in adopting secure digital practices.
+- Collaborate with regional stakeholders to create and implement policies that protect critical digital infrastructure and promote safe technology use.
+- Mentor young people in the Niger Delta, helping to build a pipeline of skilled professionals who can drive innovation and contribute to the region’s growth.
+
+---
+
+## What are your short-term goals?
+
+- Complete the Master of Engineering in Information Systems Security at Concordia University, focusing on practical projects and research that can be adapted to the Nigerian context.
+- Build a professional network with cybersecurity experts and organizations, both in Canada and internationally, to facilitate future collaborations.
+- Gain hands-on experience with advanced security technologies and approaches that can be transferred to address local challenges in the Niger Delta.
+
+---
+
+## Why did you choose those goals (long and short)?
+
+I chose these goals because the Niger Delta is experiencing increased digitalization but lacks adequate local capacity to secure its systems. My long-term goals are designed to address this gap by building local expertise and fostering a culture of digital safety. The short-term goals are practical steps to acquire the specialized knowledge, experience, and networks necessary to make a meaningful impact at home. Each goal is a response to specific needs I have observed in my community and is structured to deliver sustainable benefits.
+
+---
+
+## What do you do currently?
+
+I am actively involved in software development projects and volunteer initiatives in Calabar. I work on digital tools for educational management, participate in community tech forums, and contribute to youth training programs. I also stay engaged with the latest developments in cybersecurity, preparing myself for graduate study and future leadership in the field.
+
+---
+
+## What’s the guarantee that you’ll pay this forward?
+
+My record of community engagement demonstrates my commitment to giving back. I have led and participated in local training, fundraising, and outreach projects. I am bound by the NDDC’s return requirement, and I have already started discussions with local organizations interested in collaborating on digital security and skills development. My plan includes launching accessible training programs and mentorship initiatives to ensure that the knowledge and skills I gain are widely shared and have lasting impact in the Niger Delta.
+
+---
+
+## What’s your motivation?
+
+My motivation comes from seeing how digital insecurity can disrupt education, business, and governance in my community. I want to help build systems that protect people and institutions, create opportunities, and support the region’s progress. The chance to make technology safer and more accessible for the Niger Delta is what drives me.
+
+---
+
+## Why Concordia?
+
+Concordia’s Information Systems Security program offers a curriculum that closely matches the needs of the Niger Delta, with a strong emphasis on practical problem-solving and applied research. The program structure allows me to focus on projects and technologies directly relevant to the challenges I want to address at home.
+
+---
+
+## Why Information Security?
+
+Information security is fundamental to the safe adoption of technology in any society. Without it, digital initiatives in education, business, and governance are vulnerable to disruption and abuse. By specializing in this field, I can help ensure that the Niger Delta’s digital transformation is secure, inclusive, and sustainable.
+
+---
+
+## Why NDDC?
+
+The NDDC’s mission to build local capacity and drive sustainable development in the Niger Delta aligns with my personal and professional goals. The scholarship is not just financial support—it is a partnership with an organization committed to transforming the region. I want to be part of that transformation, using my skills to address real needs and create lasting value for my community.
+
+---
+
+### **Summary Table**
+
+| Question         | Direct, NDDC-Aligned Answer |
+|------------------|----------------------------|
+| Introduction     | I am Adora Obiosio Onyile, a software engineer from Calabar, committed to using technology and secure digital systems to empower the Niger Delta. |
+| Long-term goals  | Build a cybersecurity and digital skills center, develop regional digital policies, and mentor future tech leaders in the Niger Delta. |
+| Short-term goals | Complete my Master’s at Concordia, engage in relevant research, and build a professional network for future collaborations. |
+| Why these goals  | They address the Niger Delta’s urgent need for digital security and skilled professionals, and each step is designed for lasting, local impact. |
+| What you do now  | Develop digital tools for education, volunteer in youth training, and participate in local tech initiatives in Calabar. |
+| Guarantee to pay forward | My record of community engagement, NDDC’s return requirement, and plans for local training and mentorship ensure I will share my knowledge widely. |
+| Motivation       | I am driven by the need to protect and empower my community through secure digital infrastructure and technology. |
+| Why Concordia    | The program’s curriculum and research focus are directly relevant to the Niger Delta’s digital security needs. |
+| Why Info Security| Secure digital systems are essential for safe, sustainable development in the Niger Delta. |
+| Why NDDC         | NDDC’s mission matches my commitment to return and contribute to the region’s transformation. |
+
+---
+
+Citations:
+[1] CU_ADMP_GAE-2.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/56715867/8411f0dc-df8e-49bd-b803-a8aba1b92b18/CU_ADMP_GAE-2.pdf
